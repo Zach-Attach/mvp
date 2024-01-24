@@ -5,7 +5,7 @@
 # distribution of this software and related documentation without an express
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
-from gym import spaces
+from gymnasium import spaces
 
 from isaacgym import gymtorch
 from isaacgym.torch_utils import to_torch

@@ -6,7 +6,7 @@ import os
 import math
 import time
 
-from gym.spaces import Space
+from gymnasium.spaces import Space
 
 import statistics
 from collections import deque

@@ -1,4 +1,4 @@
-gym
+gymnasium
 hydra-core>=1.1
 iopath
 omegaconf
